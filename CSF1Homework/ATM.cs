@@ -15,6 +15,7 @@ namespace CSF1Homework
             Console.WriteLine("ATM Application");
             Console.Write("---------------------------------\n");
 
+
             int acctNumber = 9, acctCompare, pinNumber = 2, pinCompare, menuChoice;
             int startBalance = 5000, deposit, withdraw, runningBalance;
 
